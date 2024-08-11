@@ -1,0 +1,16 @@
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+
+   
+}
+div header nav ul li{
+    display: flex;
+    list-style: none;
+    border-radius: 20px;
+    
+}
+div header nav ul li a{
+    text-decoration: none;
+}
